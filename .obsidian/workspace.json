@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "agents/00-orchestrator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "00-orchestrator"
             }
           }
         ]
@@ -198,8 +198,24 @@
   },
   "active": "4a9ae93a75a13188",
   "lastOpenFiles": [
-    "README.md",
     "CLAUDE.md",
+    "agents/WORKFLOW.md",
+    "agents/DISPATCH-REFERENCE.md",
+    "agents/CONTRACT.md",
+    "agents/11-researcher.md",
+    "agents/10-designer.md",
+    "agents/09-docs.md",
+    "agents/08-integrator.md",
+    "agents/07-security.md",
+    "agents/06-qa.md",
+    "agents/05-reviewer.md",
+    "agents/04-coder.md",
+    "agents/03-planner.md",
+    "agents/02-architect.md",
+    "agents/01-spec-agent.md",
+    "agents/00-orchestrator.md",
+    "agents",
+    "README.md",
     "CLAUDE.md.tmp.22868.9acf5adead28"
   ]
 }
