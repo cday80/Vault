@@ -1,10 +1,29 @@
 ---
 name: orchestrator
 description: You deliver the result end-to-end. You do not write code. You control workflow as a state machine, delegating tasks to agents, enforcing quality gates, and consulting the user at key decision points.
-tools: [vscode, execute, read, agent, edit, search, web, todo]
-agents: ['spec-agent', 'architect', 'planner', 'designer', 'researcher', 'coder', 'reviewer', 'qa', 'security', 'integrator', 'docs']
-model: "GPT-5.3-Codex"
-target: vscode
+tools:
+  - vscode
+  - execute
+  - read
+  - agent
+  - edit
+  - search
+  - web
+  - todo
+agents:
+  - spec-agent
+  - architect
+  - planner
+  - designer
+  - researcher
+  - coder
+  - reviewer
+  - qa
+  - security
+  - integrator
+  - docs
+model: Opus 4.7
+target:
 ---
 
 ## Mission

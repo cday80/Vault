@@ -198,7 +198,6 @@
   },
   "active": "4a9ae93a75a13188",
   "lastOpenFiles": [
-    "CLAUDE.md",
     "agents/WORKFLOW.md",
     "agents/DISPATCH-REFERENCE.md",
     "agents/CONTRACT.md",
@@ -214,6 +213,7 @@
     "agents/02-architect.md",
     "agents/01-spec-agent.md",
     "agents/00-orchestrator.md",
+    "CLAUDE.md",
     "agents",
     "README.md",
     "CLAUDE.md.tmp.22868.9acf5adead28"
